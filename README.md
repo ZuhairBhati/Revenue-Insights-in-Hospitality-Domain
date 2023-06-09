@@ -19,6 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Screenshots
 
 ![Dashboard Screenshot]()
+![Power BI Desktop 09-06-2023 15_26_53](https://github.com/ZuhairBhati/Revenue-Insights-in-Hospitality-Domain/assets/123544025/e0132593-637a-4342-ba0d-97af46709e0d)
 
 ## Refer Codebasics
 https://codebasics.io/challenge/codebasics-resume-project-challenge
